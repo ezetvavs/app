@@ -4,7 +4,8 @@
 
 Last update 17/04/2016.
 
-GOLF is under the SPORTS SECTION
+SPORTS LINK is now under the Sport's section. You can either click on Live Sports HQ and then choose from
+the various sporting links or else scroll down and choose one of the live matches.
 
 HD Football - to make the streams play better go to SETTINGS and click on settings and not the submenus below.
 Then scroll down and select VIDEOS. Then scroll down to ACCELERATION and once acceleration is highlighted,
