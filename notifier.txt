@@ -3,10 +3,8 @@
 SPORTS LINK is now under the Sport's section. You can either click on Live Sports HQ and then choose from
 the various sporting links or else scroll down and choose one of the live matches.
 
-HD Football - to make the streams play better go to SETTINGS and click on settings and not the submenus below.
-Then scroll down and select VIDEOS. Then scroll down to ACCELERATION and once acceleration is highlighted,
-scroll right to the options. Then scroll down and switch the acceleration modes to off. This should make the
-HD Football streams play better. You will have to double check this after each update.
+HD Football - a few sports addons have been taken down, by the developers, but hopefully they will be back 
+soon. Therefore some of the links will not work. As sson as the guys put them back up, we will update the links.
 
 "Movie Mix" has been added to the Movies & TV Shows sections. When you click on a movie it will play
 straight away without having to choose any links. Good quality but not all links will work. Worth
