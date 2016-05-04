@@ -1,14 +1,14 @@
 1
 |||
-SPORTS LINK is now under the Sport's section. You can either click on Live Sports HQ and then choose from
-the various sporting links or else scroll down and choose one of the live matches.
+Most of the links that were down are now back up e.g. "Most matches". HD Football has now been replaced with
+HD Sports Centre. Always ensure that you go to SETTINGS and clear your cache to update available matches.
 
-HD Football - a few sports addons have been taken down, by the developers, but hopefully they will be back 
-soon. Therefore some of the links will not work. As sson as the guys put them back up, we will update the links.
+One of the best links for football matches is in the Sports Section under "All Sports Live". Then click into
+VC Events and you will find the relevant links to high quality streams. 
 
-"Movie Mix" has been added to the Movies & TV Shows sections. When you click on a movie it will play
-straight away without having to choose any links. Good quality but not all links will work. Worth
-checking out though.
+For football stream to work well then you need to turn off "Hardware Acceleration". To do this go to SETTINGS
+and click on settings (not the submenus below it), then arrow down and click on VIDEOS. Then arrow down to 
+ACCELERATION. Then arrow right and turn off all hardware acceleration modes. Then click backup and it is done.
 
 The EzeTV APP is now available in the amazon APP store, ONLY £5, to download to any android device
 or android box or Fire TV Stick. For the Fire TV Stick, see instructions on our website.
