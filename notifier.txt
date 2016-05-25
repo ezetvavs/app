@@ -1,7 +1,8 @@
 1
 |||
-Most of the links that were down are now back up e.g. "Most matches". HD Football has now been replaced with
-HD Sports Centre. Always ensure that you go to SETTINGS and clear your cache to update available matches.
+The "People Watching" and "Most Popular" sections in both Movies and TV Shows has been updated to change to
+links that give more results for HD links. In the "Addons" section you should browse through them to see all
+the options that are available to you.
 
 One of the best links for football matches is in the Sports Section under "All Sports Live". Then click into
 VC Events and you will find the relevant links to high quality streams. 
