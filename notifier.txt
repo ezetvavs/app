@@ -1,10 +1,10 @@
 1
 |||
-The "People Watching" and "Most Popular" sections in both Movies and TV Shows has been updated to change to
-links that give more results for HD links. Also, once you select SEARCH, you will have to scroll down to then
-find the search section. 
+Sports links have been updated so that most are now working. Project M has been added to a few sections.
 
-One of the best links for football matches is in the Sports Section under "All Sports Live". Then click into
+New Releases and Hot Movies has been added to the Movies Section.
+
+One of the best links for football matches (once premiership starts) is in the Sports Section under "All Sports Live". Then click into
 VC Events and you will find the relevant links to high quality streams. 
 
 For football stream to work well then you need to turn off "Hardware Acceleration". To do this go to SETTINGS
@@ -12,7 +12,7 @@ and click on settings (not the submenus below it), then arrow down and click on 
 ACCELERATION. Then arrow right and turn off all hardware acceleration modes. Then click backup and it is done.
 
 The EzeTV APP is now available in the amazon APP store, ONLY £5, to download to any android device
-or android box or Fire TV Stick. For the Fire TV Stick, see instructions on our website.
+or android box.
 
 DON'T FORGET TO TELL ALL YOUR FRIENDS!!
 
